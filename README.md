@@ -4,24 +4,24 @@
 
 Packages needed: 
 
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import requests
-from kaggle.api.kaggle_api_extended import KaggleApi
-import os
-import zipfile
-import seaborn as sns
-import plotly.express as px
-import plotly.figure_factory as ff
-import statistics
-from scipy import stats
-from sklearn.neural_network import MLPRegressor
-from sklearn.model_selection import train_test_split
-from sklearn.feature_extraction.text import CountVectorizer
-from sklearn.metrics import mean_squared_error, r2_score
-from sklearn.linear_model import LinearRegression
-from sklearn.linear_model import LogisticRegression
+import pandas as pd<br>
+import numpy as np<br>
+import matplotlib.pyplot as plt<br>
+import requests<br>
+from kaggle.api.kaggle_api_extended import KaggleApi<br>
+import os<br>
+import zipfile<br>
+import seaborn as sns<br>
+import plotly.express as px<br>
+import plotly.figure_factory as ff<br>
+import statistics<br>
+from scipy import stats<br>
+from sklearn.neural_network import MLPRegressor<br>
+from sklearn.model_selection import train_test_split<br>
+from sklearn.feature_extraction.text import CountVectorizer<br>
+from sklearn.metrics import mean_squared_error, r2_score<br>
+from sklearn.linear_model import LinearRegression<br>
+from sklearn.linear_model import LogisticRegression<br>
 
 Analysis of earnings in data science related jobs.
 Fetching the data from kaggle.
@@ -37,20 +37,20 @@ Forecasting one's earnings based on constructed simple predictive models:
 **R project**
 
 Packages needed:
-install.packages("readxl")
-install.packages("dplyr")
-install.packages("caTools")    
-install.packages('car')
-install.packages("lmtest")
-install.packages("MASS")
-install.packages("stringr")
-install.packages("ggpubr")
-install.packages("ISLR")
-install.packages("rpart.plot")
-install.packages("tseries")
-install.packages('rsconnect')
-install.packages("shiny")
-install.packages("nortest")
+install.packages("readxl")<br>
+install.packages("dplyr")<br>
+install.packages("caTools") <br>  
+install.packages('car')<br>
+install.packages("lmtest")<br>
+install.packages("MASS")<br>
+install.packages("stringr")<br>
+install.packages("ggpubr")<br>
+install.packages("ISLR")<br>
+install.packages("rpart.plot")<br>
+install.packages("tseries")<br>
+install.packages('rsconnect')<br>
+install.packages("shiny")<br>
+install.packages("nortest")<br>
 
 Data needed to load attached; source: GUS.
 Analysis of earnings in Polish regions, verifying correlation of chosen set of variables with the level of earnings.
