@@ -35,6 +35,7 @@ Forecasting one's earnings based on constructed simple predictive models:
 - XGBoost.
 
 **R project**\n
+
 Data needed to load attached; source: GUS.
 Analysis of earnings in Polish regions, verifying correlation of chosen set of variables with the level of earnings.
 
