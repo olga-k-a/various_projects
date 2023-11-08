@@ -36,6 +36,22 @@ Forecasting one's earnings based on constructed simple predictive models:
 
 **R project**
 
+Packages needed:
+install.packages("readxl")
+install.packages("dplyr")
+install.packages("caTools")    
+install.packages('car')
+install.packages("lmtest")
+install.packages("MASS")
+install.packages("stringr")
+install.packages("ggpubr")
+install.packages("ISLR")
+install.packages("rpart.plot")
+install.packages("tseries")
+install.packages('rsconnect')
+install.packages("shiny")
+install.packages("nortest")
+
 Data needed to load attached; source: GUS.
 Analysis of earnings in Polish regions, verifying correlation of chosen set of variables with the level of earnings.
 
