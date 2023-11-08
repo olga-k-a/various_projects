@@ -1,6 +1,6 @@
 # projects
 
-**Python project** 
+**Python project**\n
 
 Packages needed: 
 
@@ -34,7 +34,7 @@ Forecasting one's earnings based on constructed simple predictive models:
 - random forest,
 - XGBoost.
 
-**R project**
+**R project**\n
 Data needed to load attached; source: GUS.
 Analysis of earnings in Polish regions, verifying correlation of chosen set of variables with the level of earnings.
 
